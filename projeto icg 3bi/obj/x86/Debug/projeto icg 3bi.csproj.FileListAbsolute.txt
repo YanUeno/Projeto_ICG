@@ -1,0 +1,17 @@
+C:\projeto icg 3bi\projeto icg 3bi\bin\Debug\projeto icg 3bi.exe
+C:\projeto icg 3bi\projeto icg 3bi\bin\Debug\projeto icg 3bi.pdb
+C:\projeto icg 3bi\projeto icg 3bi\obj\x86\Debug\projeto_icg_3bi.Form1.resources
+C:\projeto icg 3bi\projeto icg 3bi\obj\x86\Debug\projeto_icg_3bi.Properties.Resources.resources
+C:\projeto icg 3bi\projeto icg 3bi\obj\x86\Debug\projeto icg 3bi.csproj.GenerateResource.Cache
+C:\projeto icg 3bi\projeto icg 3bi\obj\x86\Debug\projeto icg 3bi.exe
+C:\projeto icg 3bi\projeto icg 3bi\obj\x86\Debug\projeto icg 3bi.pdb
+C:\projeto icg 3bi\projeto icg 3bi\obj\x86\Debug\projeto icg 3bi.csprojResolveAssemblyReference.cache
+C:\Users\yanue\OneDrive\Área de Trabalho\projeto\projeto icg 3bi\bin\Debug\projeto icg 3bi.exe
+C:\Users\yanue\OneDrive\Área de Trabalho\projeto\projeto icg 3bi\bin\Debug\projeto icg 3bi.pdb
+C:\Users\yanue\OneDrive\Área de Trabalho\projeto\projeto icg 3bi\obj\x86\Debug\projeto icg 3bi.csproj.AssemblyReference.cache
+C:\Users\yanue\OneDrive\Área de Trabalho\projeto\projeto icg 3bi\obj\x86\Debug\projeto_icg_3bi.Form1.resources
+C:\Users\yanue\OneDrive\Área de Trabalho\projeto\projeto icg 3bi\obj\x86\Debug\projeto_icg_3bi.Properties.Resources.resources
+C:\Users\yanue\OneDrive\Área de Trabalho\projeto\projeto icg 3bi\obj\x86\Debug\projeto icg 3bi.csproj.GenerateResource.cache
+C:\Users\yanue\OneDrive\Área de Trabalho\projeto\projeto icg 3bi\obj\x86\Debug\projeto icg 3bi.csproj.CoreCompileInputs.cache
+C:\Users\yanue\OneDrive\Área de Trabalho\projeto\projeto icg 3bi\obj\x86\Debug\projeto icg 3bi.exe
+C:\Users\yanue\OneDrive\Área de Trabalho\projeto\projeto icg 3bi\obj\x86\Debug\projeto icg 3bi.pdb
